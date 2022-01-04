@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NER-Agile", "NER-Agile.csproj", "{D531DB6A-4925-4AD0-8BAA-9C6636FC801C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "..\DAL\DAL.csproj", "{3F7C2095-861F-447F-8E52-ADCF0FA02390}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DTO", "..\DTO\DTO.csproj", "{67148675-7B6F-46B4-A428-45DD63D01B5A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BLL", "..\BLL\BLL.csproj", "{1249447F-79AA-428E-93F7-57CA998E47F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D531DB6A-4925-4AD0-8BAA-9C6636FC801C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D531DB6A-4925-4AD0-8BAA-9C6636FC801C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D531DB6A-4925-4AD0-8BAA-9C6636FC801C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D531DB6A-4925-4AD0-8BAA-9C6636FC801C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F7C2095-861F-447F-8E52-ADCF0FA02390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F7C2095-861F-447F-8E52-ADCF0FA02390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F7C2095-861F-447F-8E52-ADCF0FA02390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F7C2095-861F-447F-8E52-ADCF0FA02390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67148675-7B6F-46B4-A428-45DD63D01B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67148675-7B6F-46B4-A428-45DD63D01B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67148675-7B6F-46B4-A428-45DD63D01B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67148675-7B6F-46B4-A428-45DD63D01B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1249447F-79AA-428E-93F7-57CA998E47F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1249447F-79AA-428E-93F7-57CA998E47F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1249447F-79AA-428E-93F7-57CA998E47F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1249447F-79AA-428E-93F7-57CA998E47F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA2E03AB-67FD-4480-ABE4-8F3C14A2A1F9}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://vmhtfs2018.hevs.ch/625-1
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = NER-Agile.csproj
+		SccLocalPath1 = .
+		SccProjectUniqueName2 = ..\\BLL\\BLL.csproj
+		SccProjectName2 = ../BLL
+		SccLocalPath2 = ..\\BLL
+		SccProjectUniqueName3 = ..\\DAL\\DAL.csproj
+		SccProjectName3 = ../DAL
+		SccLocalPath3 = ..\\DAL
+		SccProjectUniqueName4 = ..\\DTO\\DTO.csproj
+		SccProjectName4 = ../DTO
+		SccLocalPath4 = ..\\DTO
+	EndGlobalSection
+EndGlobal

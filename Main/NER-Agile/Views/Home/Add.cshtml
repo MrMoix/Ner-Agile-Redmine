@@ -1,0 +1,119 @@
+﻿@model NER_Agile.Models.InstallationModel
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+<h1>Add an installation</h1>
+
+
+<form asp-controller="Home" asp-action="AddInstallation">
+    <h2>location</h2>
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="Street" class="control-label">Street</label>
+        <input asp-for="Street" class="form-control" type="text" />
+        <span asp-validation-for="Street" class="text-danger"></span>
+    </div>
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="Number" class="control-label">Number</label>
+        <input asp-for="Number" class="form-control" type="number" />
+        <span asp-validation-for="Number" class="text-danger"></span>
+    </div>
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="City" class="control-label">City</label>
+        <input asp-for="City" class="form-control" type="text" />
+        <span asp-validation-for="City" class="text-danger"></span>
+    </div>
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="Postcode" class="control-label">Postcode</label>
+        <input asp-for="Postcode" class="form-control" type="number" />
+        <span asp-validation-for="Postcode" class="text-danger"></span>
+    </div>
+    <h2>Orientation</h2>
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="FieldOrientation" class="control-label">Field orientation (azimuth) [°]</label>
+        <input asp-for="FieldOrientation" class="form-control" type="number" min="0" max="360" />
+        <span asp-validation-for="FieldOrientation" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="SlopRoof" class="control-label">Slope of the roof [°]</label>
+        <input asp-for="SlopRoof" class="form-control" type="number" min="0" max="360"/>
+        <span asp-validation-for="SlopRoof" class="text-danger"></span>
+    </div>
+    <h2>Area</h2>
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="Length" class="control-label">Length [m]</label>
+        <input asp-for="Length" class="form-control" type="number" />
+        <span asp-validation-for="Length" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Width" class="control-label">Width [m]</label>
+        <input asp-for="Width" class="form-control" type="number" />
+        <span asp-validation-for="Width" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Area" class="control-label">Area [m2]</label>
+        <input asp-for="Area" class="form-control" type="number" />
+        <span asp-validation-for="Area" class="text-danger"></span>
+    </div>
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <h2>Renewable energy</h2>
+    <fieldset id="groupe1">
+        <div class="form-group">
+            <label asp-for="Energy" class="control-label">Aeolian</label>
+            <input asp-for="Energy" class="form-control" type="radio" value="Aeolian" />
+            <span asp-validation-for="Energy" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Energy" class="control-label">Photovoltaic</label>
+            <input asp-for="Energy" class="form-control" type="radio" value="Photovoltaic" />
+            <span asp-validation-for="Energy" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Energy" class="control-label">Bio-gas</label>
+            <input asp-for="Energy" class="form-control" type="radio" value="Bio-gas" />
+            <span asp-validation-for="Energy" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Energy" class="control-label">Mini-hydraulic</label>
+            <input asp-for="Energy" class="form-control" type="radio" value="Mini-hydraulic" />
+            <span asp-validation-for="Energy" class="text-danger"></span>
+        </div>
+    </fieldset>
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <h2>Type of integration</h2>
+    <fieldset id="groupe1">
+        <div class="form-group">
+            <label asp-for="Integration" class="control-label">Added</label>
+            <input asp-for="Integration" class="form-control" type="radio" value="Added" />
+            <span asp-validation-for="Integration" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Integration" class="control-label">Intergrated</label>
+            <input asp-for="Integration" class="form-control" type="radio" value="Integrated" />
+            <span asp-validation-for="Integration" class="text-danger"></span>
+        </div>
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <h2>Type of PV cells</h2>
+        <div class="form-group">
+            <label asp-for="PVCells" class="control-label">Polycrystalline</label>
+            <input asp-for="PVCells" class="form-control" type="radio" value="Polycrystalline" />
+            <span asp-validation-for="PVCells" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="PVCells" class="control-label">Monocrystalline</label>
+            <input asp-for="PVCells" class="form-control" type="radio" value="Monocrystalline" />
+            <span asp-validation-for="PVCells" class="text-danger"></span>
+        </div>
+    </fieldset>
+        <div class="form-group">
+            <input type="submit" value="Save your installation" class="btn btn-primary" />
+        </div>
+</form>
+
+

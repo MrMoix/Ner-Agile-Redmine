@@ -1,0 +1,15 @@
+C:\Users\gaeta\Source\Workspaces\2021_Portail_NER_Agile\SeparateForms\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Users\gaeta\Source\Workspaces\2021_Portail_NER_Agile\SeparateForms\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\gaeta\Source\Workspaces\2021_Portail_NER_Agile\SeparateForms\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\gaeta\Source\Workspaces\2021_Portail_NER_Agile\SeparateForms\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\gaeta\Source\Workspaces\2021_Portail_NER_Agile\SeparateForms\BLL\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\gaeta\Source\Workspaces\2021_Portail_NER_Agile\SeparateForms\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\gaeta\Source\Workspaces\2021_Portail_NER_Agile\SeparateForms\BLL\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\gaeta\Source\Workspaces\2021_Portail_NER_Agile\SeparateForms\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.AssemblyReference.cache
+C:\Users\gaeta\Source\Workspaces\2021_Portail_NER_Agile\SeparateForms\BLL\obj\Debug\netcoreapp3.1\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaeta\Source\Workspaces\2021_Portail_NER_Agile\SeparateForms\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\gaeta\Source\Workspaces\2021_Portail_NER_Agile\SeparateForms\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\gaeta\Source\Workspaces\2021_Portail_NER_Agile\SeparateForms\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\gaeta\Source\Workspaces\2021_Portail_NER_Agile\SeparateForms\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+C:\Users\gaeta\Source\Workspaces\2021_Portail_NER_Agile\SeparateForms\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\gaeta\Source\Workspaces\2021_Portail_NER_Agile\SeparateForms\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
