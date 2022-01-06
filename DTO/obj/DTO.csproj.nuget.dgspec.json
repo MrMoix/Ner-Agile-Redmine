@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gaeta\\source\\Workspaces\\2021_Portail_NER_Agile\\DTO\\DTO.csproj": {}
+    "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\DTO\\DTO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gaeta\\source\\Workspaces\\2021_Portail_NER_Agile\\DTO\\DTO.csproj": {
+    "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\DTO\\DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gaeta\\source\\Workspaces\\2021_Portail_NER_Agile\\DTO\\DTO.csproj",
+        "projectUniqueName": "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\DTO\\DTO.csproj",
         "projectName": "DTO",
-        "projectPath": "C:\\Users\\gaeta\\source\\Workspaces\\2021_Portail_NER_Agile\\DTO\\DTO.csproj",
-        "packagesPath": "C:\\Users\\gaeta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gaeta\\source\\Workspaces\\2021_Portail_NER_Agile\\DTO\\obj\\",
+        "projectPath": "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\DTO\\DTO.csproj",
+        "packagesPath": "C:\\Users\\Baptiste\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\gaeta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Baptiste\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

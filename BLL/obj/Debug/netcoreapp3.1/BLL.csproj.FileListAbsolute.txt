@@ -1,15 +1,15 @@
-C:\Users\gaeta\source\Workspaces\2021_Portail_NER_Agile\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
-C:\Users\gaeta\source\Workspaces\2021_Portail_NER_Agile\BLL\bin\Debug\netcoreapp3.1\BLL.dll
-C:\Users\gaeta\source\Workspaces\2021_Portail_NER_Agile\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
-C:\Users\gaeta\source\Workspaces\2021_Portail_NER_Agile\BLL\bin\Debug\netcoreapp3.1\DAL.dll
-C:\Users\gaeta\source\Workspaces\2021_Portail_NER_Agile\BLL\bin\Debug\netcoreapp3.1\DTO.dll
-C:\Users\gaeta\source\Workspaces\2021_Portail_NER_Agile\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
-C:\Users\gaeta\source\Workspaces\2021_Portail_NER_Agile\BLL\bin\Debug\netcoreapp3.1\DTO.pdb
-C:\Users\gaeta\source\Workspaces\2021_Portail_NER_Agile\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.AssemblyReference.cache
-C:\Users\gaeta\source\Workspaces\2021_Portail_NER_Agile\BLL\obj\Debug\netcoreapp3.1\BLL.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\gaeta\source\Workspaces\2021_Portail_NER_Agile\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
-C:\Users\gaeta\source\Workspaces\2021_Portail_NER_Agile\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
-C:\Users\gaeta\source\Workspaces\2021_Portail_NER_Agile\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
-C:\Users\gaeta\source\Workspaces\2021_Portail_NER_Agile\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
-C:\Users\gaeta\source\Workspaces\2021_Portail_NER_Agile\BLL\obj\Debug\netcoreapp3.1\BLL.dll
-C:\Users\gaeta\source\Workspaces\2021_Portail_NER_Agile\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\BLL\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\BLL\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.AssemblyReference.cache
+C:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\BLL\obj\Debug\netcoreapp3.1\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+C:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
