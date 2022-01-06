@@ -1,5 +1,5 @@
-Â
-uC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\DAL\IInstallationDB.cs
+½
+pC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\DAL\IInstallationDB.cs
 
  $
 
@@ -30,9 +30,9 @@ uC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agi
 
  6
 
-; M¿
+; Mº
 
-tC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\DAL\InstallationDB.cs
+oC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\DAL\InstallationDB.cs
 
  
  ,  ,(

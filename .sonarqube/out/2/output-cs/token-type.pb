@@ -1,5 +1,5 @@
-š
-zC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\BLL\IInstallationManager.cs
+•
+uC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\BLL\IInstallationManager.cs
  
  	 
   )  "+ .7 :E KR Xa gu {
@@ -7,8 +7,8 @@ zC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agi
 ™ Ÿ
 ¦ ¬
 µ »
-Ã É % (ñ
-yC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\BLL\InstallationManager.cs
+Ã É % (ì
+tC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\BLL\InstallationManager.cs
  
  
  

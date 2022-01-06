@@ -1,2 +1,2 @@
-﻿C:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\BLL\IInstallationManager.cs
-C:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\BLL\InstallationManager.cs
+﻿C:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\BLL\IInstallationManager.cs
+C:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\BLL\InstallationManager.cs

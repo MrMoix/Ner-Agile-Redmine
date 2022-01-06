@@ -1,5 +1,5 @@
-¿	
-zC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\BLL\IInstallationManager.cs
+º	
+uC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\BLL\IInstallationManager.cs
 	namespace 	
 BLL
  
@@ -76,8 +76,8 @@ zC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agi
 }		 
 }
 
- ‰
-yC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\BLL\InstallationManager.cs
+ „
+tC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\BLL\InstallationManager.cs
 	namespace		 	
 BLL		
  

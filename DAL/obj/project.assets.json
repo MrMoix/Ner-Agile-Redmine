@@ -585,11 +585,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\DAL\\DAL.csproj",
+      "projectUniqueName": "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\DAL\\DAL.csproj",
+      "projectPath": "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\Baptiste\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\DAL\\obj\\",
+      "outputPath": "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -610,8 +610,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\DTO\\DTO.csproj": {
-              "projectPath": "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\DTO\\DTO.csproj"
+            "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\DTO\\DTO.csproj": {
+              "projectPath": "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\DTO\\DTO.csproj"
             }
           }
         }

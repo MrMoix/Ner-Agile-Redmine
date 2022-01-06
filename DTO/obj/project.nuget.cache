@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ECAB1rqFbZeg+I2NiTuzyAbmjhQKN1RjfaPjME0pPfK7k1UoCWAPLHMTUw86OVmyXkGTOgtLdKKiGDPt0EF6qQ==",
+  "dgSpecHash": "cf8iAJvitmp7TnONg0DLjqHFnA92/DbIsXrVImEXmUgjAeNtVn2Q9ET13Mm89a71PVn0lGBD6diOm7Mb0dS6JQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\DTO\\DTO.csproj",
+  "projectFilePath": "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\DTO\\DTO.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

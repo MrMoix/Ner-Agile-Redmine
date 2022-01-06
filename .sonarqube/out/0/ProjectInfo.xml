@@ -4,7 +4,7 @@
   <ProjectLanguage>C#</ProjectLanguage>
   <ProjectType>Product</ProjectType>
   <ProjectGuid>67148675-7b6f-46b4-a428-45dd63d01b5a</ProjectGuid>
-  <FullPath>C:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\DTO\DTO.csproj</FullPath>
+  <FullPath>C:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\DTO\DTO.csproj</FullPath>
   <IsExcluded>false</IsExcluded>
   <AnalysisResults>
     <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\.sonarqube\conf\0\FilesToAnalyze.txt" />

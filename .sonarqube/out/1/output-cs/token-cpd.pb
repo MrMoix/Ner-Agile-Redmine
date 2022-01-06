@@ -1,5 +1,5 @@
-Ç	
-uC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\DAL\IInstallationDB.cs
+Â	
+pC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\DAL\IInstallationDB.cs
 	namespace 	
 DAL
  
@@ -76,8 +76,8 @@ uC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agi
 }		 
 }
 
- Û^
-tC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\DAL\InstallationDB.cs
+ Ö^
+oC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\DAL\InstallationDB.cs
 	namespace
 
  	

@@ -18,7 +18,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/BLL/IInstallationManager.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/BLL/IInstallationManager.cs",
                 "region": {
                   "startLine": 7,
                   "startColumn": 28,

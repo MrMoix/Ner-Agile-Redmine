@@ -1,5 +1,5 @@
-‡
-†C:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\NER-Agile\Controllers\HomeController.cs
+‚
+C:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\NER-Agile\Controllers\HomeController.cs
  ! /& 4
  0 .. (
 1 8 
@@ -39,14 +39,14 @@
 ..¢ ¦
 .. //* ,
 
-55 "²
-C:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\NER-Agile\Models\ErrorViewModel.cs
+55 "¬
+|C:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\NER-Agile\Models\ErrorViewModel.cs
 
  
  		; D
 
-		 !¯
-„C:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\NER-Agile\Models\InstallationModel.cs
+		 !©
+C:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\NER-Agile\Models\InstallationModel.cs
 
 		 "
 
@@ -74,8 +74,8 @@
 
 $$ 
 
-&& å
-sC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\NER-Agile\Program.cs
+&& à
+nC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\NER-Agile\Program.cs
 
  
 
@@ -83,8 +83,8 @@ sC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agi
 ) - "
 # 4 
 > B& *
-* 4 ƒ
-sC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\NER-Agile\Startup.cs
+* 4 þ
+nC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\NER-Agile\Startup.cs
 
  
 

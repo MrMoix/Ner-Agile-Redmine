@@ -21,7 +21,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/SaveResultView.cshtml.g.cs",
                 "region": {
                   "startLine": 34,
                   "startColumn": 67,
@@ -45,127 +45,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs",
-                "region": {
-                  "startLine": 34,
-                  "startColumn": 67,
-                  "endLine": 34,
-                  "endColumn": 79
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Details.cshtml.g.cs",
-                "region": {
-                  "startLine": 34,
-                  "startColumn": 67,
-                  "endLine": 34,
-                  "endColumn": 79
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs",
-                "region": {
-                  "startLine": 34,
-                  "startColumn": 67,
-                  "endLine": 34,
-                  "endColumn": 79
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs",
-                "region": {
-                  "startLine": 34,
-                  "startColumn": 67,
-                  "endLine": 34,
-                  "endColumn": 79
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/SaveResultView.cshtml.g.cs",
-                "region": {
-                  "startLine": 34,
-                  "startColumn": 67,
-                  "endLine": 34,
-                  "endColumn": 79
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs",
                 "region": {
                   "startLine": 33,
                   "startColumn": 67,
@@ -189,7 +69,103 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 67,
+                  "endLine": 34,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 67,
+                  "endLine": 34,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Details.cshtml.g.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 67,
+                  "endLine": 34,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 67,
+                  "endLine": 34,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
                 "region": {
                   "startLine": 59,
                   "startColumn": 212,
@@ -213,7 +189,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
                 "region": {
                   "startLine": 73,
                   "startColumn": 212,
@@ -237,7 +213,31 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 67,
+                  "endLine": 34,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
                 "region": {
                   "startLine": 84,
                   "startColumn": 208,
@@ -261,7 +261,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
                 "region": {
                   "startLine": 99,
                   "startColumn": 208,
@@ -285,7 +285,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
                 "region": {
                   "startLine": 128,
                   "startColumn": 212,
@@ -309,7 +309,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
                 "region": {
                   "startLine": 157,
                   "startColumn": 212,
@@ -333,7 +333,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
                 "region": {
                   "startLine": 178,
                   "startColumn": 212,
@@ -357,7 +357,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
                 "region": {
                   "startLine": 207,
                   "startColumn": 212,
@@ -381,7 +381,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
                 "region": {
                   "startLine": 227,
                   "startColumn": 217,
@@ -405,7 +405,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
                 "region": {
                   "startLine": 241,
                   "startColumn": 217,
@@ -429,7 +429,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
                 "region": {
                   "startLine": 255,
                   "startColumn": 217,
@@ -453,7 +453,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 83,
                   "startColumn": 213,
@@ -477,7 +477,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 105,
                   "startColumn": 216,
@@ -501,7 +501,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 128,
                   "startColumn": 210,
@@ -525,7 +525,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 152,
                   "startColumn": 215,
@@ -549,7 +549,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 174,
                   "startColumn": 214,
@@ -573,7 +573,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 196,
                   "startColumn": 216,
@@ -597,7 +597,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 219,
                   "startColumn": 210,
@@ -621,7 +621,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 243,
                   "startColumn": 215,
@@ -645,7 +645,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 265,
                   "startColumn": 214,
@@ -669,7 +669,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 287,
                   "startColumn": 216,
@@ -693,7 +693,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 310,
                   "startColumn": 210,
@@ -717,7 +717,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 334,
                   "startColumn": 215,
@@ -741,7 +741,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 356,
                   "startColumn": 214,
@@ -765,7 +765,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 378,
                   "startColumn": 216,
@@ -789,7 +789,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 401,
                   "startColumn": 210,
@@ -813,7 +813,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 425,
                   "startColumn": 215,
@@ -837,7 +837,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 447,
                   "startColumn": 214,
@@ -861,7 +861,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 469,
                   "startColumn": 216,
@@ -885,7 +885,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 492,
                   "startColumn": 210,
@@ -909,7 +909,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 518,
                   "startColumn": 215,
@@ -933,7 +933,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 540,
                   "startColumn": 216,
@@ -957,7 +957,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 563,
                   "startColumn": 210,
@@ -981,7 +981,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 589,
                   "startColumn": 215,
@@ -1005,7 +1005,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 611,
                   "startColumn": 214,
@@ -1029,7 +1029,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 633,
                   "startColumn": 216,
@@ -1053,7 +1053,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 656,
                   "startColumn": 210,
@@ -1077,7 +1077,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 680,
                   "startColumn": 215,
@@ -1101,7 +1101,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 702,
                   "startColumn": 216,
@@ -1125,7 +1125,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 725,
                   "startColumn": 210,
@@ -1149,7 +1149,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 749,
                   "startColumn": 215,
@@ -1173,7 +1173,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 771,
                   "startColumn": 216,
@@ -1197,7 +1197,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 794,
                   "startColumn": 210,
@@ -1221,7 +1221,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 818,
                   "startColumn": 215,
@@ -1245,7 +1245,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 840,
                   "startColumn": 214,
@@ -1269,7 +1269,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 862,
                   "startColumn": 216,
@@ -1293,7 +1293,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 885,
                   "startColumn": 210,
@@ -1317,7 +1317,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 911,
                   "startColumn": 215,
@@ -1341,7 +1341,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 933,
                   "startColumn": 216,
@@ -1365,7 +1365,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 956,
                   "startColumn": 210,
@@ -1389,7 +1389,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 982,
                   "startColumn": 215,
@@ -1413,7 +1413,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 1004,
                   "startColumn": 216,
@@ -1437,7 +1437,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 1027,
                   "startColumn": 210,
@@ -1461,7 +1461,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 1053,
                   "startColumn": 215,
@@ -1485,7 +1485,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 1075,
                   "startColumn": 216,
@@ -1509,7 +1509,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 1098,
                   "startColumn": 210,
@@ -1533,7 +1533,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 1124,
                   "startColumn": 215,
@@ -1557,7 +1557,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 1146,
                   "startColumn": 214,
@@ -1581,7 +1581,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 1168,
                   "startColumn": 216,
@@ -1605,7 +1605,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 1191,
                   "startColumn": 210,
@@ -1629,7 +1629,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 1217,
                   "startColumn": 215,
@@ -1653,7 +1653,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 1239,
                   "startColumn": 216,
@@ -1677,7 +1677,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 1262,
                   "startColumn": 211,
@@ -1701,7 +1701,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 1288,
                   "startColumn": 216,
@@ -1725,7 +1725,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 1310,
                   "startColumn": 215,
@@ -1749,7 +1749,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 1332,
                   "startColumn": 217,
@@ -1773,7 +1773,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 1355,
                   "startColumn": 211,
@@ -1797,7 +1797,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 1381,
                   "startColumn": 216,
@@ -1821,7 +1821,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 1403,
                   "startColumn": 217,
@@ -1845,7 +1845,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 1426,
                   "startColumn": 211,
@@ -1869,7 +1869,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 1452,
                   "startColumn": 216,
@@ -1886,30 +1886,6 @@
         {
           "ruleId": "CS0169",
           "level": "warning",
-          "message": "Le champ 'Views_Shared__Layout.__tagHelperStringValueBuffer' n'est jamais utilisé",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 51,
-                  "startColumn": 24,
-                  "endLine": 51,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0169",
-          "level": "warning",
           "message": "Le champ 'Views_Home_Add.__tagHelperStringValueBuffer' n'est jamais utilisé",
           "suppressionStates": [
             "suppressedInSource"
@@ -1917,7 +1893,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
                 "region": {
                   "startLine": 57,
                   "startColumn": 24,
@@ -1941,11 +1917,35 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
                 "region": {
                   "startLine": 41,
                   "startColumn": 24,
                   "endLine": 41,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "Le champ 'Views_Shared__Layout.__tagHelperStringValueBuffer' n'est jamais utilisé",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 51,
+                  "startColumn": 24,
+                  "endLine": 51,
                   "endColumn": 52
                 }
               }

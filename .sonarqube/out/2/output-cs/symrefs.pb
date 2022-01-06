@@ -1,5 +1,5 @@
-«
-zC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\BLL\IInstallationManager.cs
+¬
+uC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\BLL\IInstallationManager.cs
 
  )
 
@@ -30,8 +30,8 @@ zC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agi
 
  $
 
-) ;ê
-yC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\BLL\InstallationManager.cs
+) ;ã
+tC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\BLL\InstallationManager.cs
 
  $(
   .  ! !

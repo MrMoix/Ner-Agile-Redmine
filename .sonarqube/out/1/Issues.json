@@ -18,7 +18,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/DAL/IInstallationDB.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/DAL/IInstallationDB.cs",
                 "region": {
                   "startLine": 7,
                   "startColumn": 28,
@@ -39,7 +39,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/DAL/InstallationDB.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/DAL/InstallationDB.cs",
                 "region": {
                   "startLine": 25,
                   "startColumn": 29,
@@ -52,7 +52,7 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/DAL/InstallationDB.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/DAL/InstallationDB.cs",
                 "region": {
                   "startLine": 41,
                   "startColumn": 25,
@@ -63,7 +63,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/DAL/InstallationDB.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/DAL/InstallationDB.cs",
                 "region": {
                   "startLine": 46,
                   "startColumn": 29,
@@ -74,7 +74,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/DAL/InstallationDB.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/DAL/InstallationDB.cs",
                 "region": {
                   "startLine": 48,
                   "startColumn": 29,
@@ -85,7 +85,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/DAL/InstallationDB.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/DAL/InstallationDB.cs",
                 "region": {
                   "startLine": 50,
                   "startColumn": 29,
@@ -96,7 +96,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/DAL/InstallationDB.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/DAL/InstallationDB.cs",
                 "region": {
                   "startLine": 52,
                   "startColumn": 29,
@@ -107,7 +107,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/DAL/InstallationDB.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/DAL/InstallationDB.cs",
                 "region": {
                   "startLine": 54,
                   "startColumn": 29,
@@ -118,7 +118,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/DAL/InstallationDB.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/DAL/InstallationDB.cs",
                 "region": {
                   "startLine": 56,
                   "startColumn": 29,
@@ -129,7 +129,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/DAL/InstallationDB.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/DAL/InstallationDB.cs",
                 "region": {
                   "startLine": 58,
                   "startColumn": 29,
@@ -140,7 +140,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/DAL/InstallationDB.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/DAL/InstallationDB.cs",
                 "region": {
                   "startLine": 60,
                   "startColumn": 29,
@@ -151,7 +151,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/DAL/InstallationDB.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/DAL/InstallationDB.cs",
                 "region": {
                   "startLine": 62,
                   "startColumn": 29,
@@ -162,7 +162,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/DAL/InstallationDB.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/DAL/InstallationDB.cs",
                 "region": {
                   "startLine": 64,
                   "startColumn": 29,
@@ -173,7 +173,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/DAL/InstallationDB.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/DAL/InstallationDB.cs",
                 "region": {
                   "startLine": 66,
                   "startColumn": 29,
@@ -184,7 +184,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/DAL/InstallationDB.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/DAL/InstallationDB.cs",
                 "region": {
                   "startLine": 68,
                   "startColumn": 29,
@@ -195,7 +195,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/DAL/InstallationDB.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/DAL/InstallationDB.cs",
                 "region": {
                   "startLine": 74,
                   "startColumn": 13,
@@ -232,7 +232,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/DAL/InstallationDB.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/DAL/InstallationDB.cs",
                 "region": {
                   "startLine": 118,
                   "startColumn": 17,
@@ -253,7 +253,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/DAL/InstallationDB.cs",
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/DAL/InstallationDB.cs",
                 "region": {
                   "startLine": 76,
                   "startColumn": 17,

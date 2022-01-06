@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZkgYFDhw4TKabNbmoauEEBthA87+i0zlfABsxOAWoIVyv4zoAk8ma985Yz7XCkLTMAEbfwXWzxMCqwIVdWWolw==",
+  "dgSpecHash": "E/6jXXBg2BGvosDW28b7WOxoHhStWy9InNlRX7UN5hidj6q+ycHC+2x3f2dxssZsBUxpCHEGGjlJmO+T+ab7fg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\NER-Agile\\NER-Agile.csproj",
+  "projectFilePath": "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\NER-Agile\\NER-Agile.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Baptiste\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Baptiste\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

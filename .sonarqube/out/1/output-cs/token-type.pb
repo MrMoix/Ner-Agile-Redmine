@@ -1,5 +1,5 @@
-ï
-uC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\DAL\IInstallationDB.cs
+ê
+pC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\DAL\IInstallationDB.cs
  
  	 
   $  "+ .7 :E KR Xa gu {
@@ -7,8 +7,8 @@ uC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agi
 ô ü
 ¶ ¨
 µ ª
-√ … 7 :“
-tC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\DAL\InstallationDB.cs
+√ … 7 :Õ
+oC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\DAL\InstallationDB.cs
  
  
  

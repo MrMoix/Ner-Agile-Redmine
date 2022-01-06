@@ -1,5 +1,5 @@
-« 
-ÜC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\NER-Agile\Controllers\HomeController.cs
+¬ 
+ÅC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\NER-Agile\Controllers\HomeController.cs
 	namespace 	
 	NER_Agile
  
@@ -244,8 +244,8 @@ Controller" ,
 ;77o p
 }88 	
 }99 
-}:: Õ
-ÅC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\NER-Agile\Models\ErrorViewModel.cs
+}:: «
+|C:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\NER-Agile\Models\ErrorViewModel.cs
 	namespace 	
 	NER_Agile
  
@@ -281,8 +281,8 @@ Controller" ,
 }
 
  
-} ¨
-ÑC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\NER-Agile\Models\InstallationModel.cs
+} ¶
+C:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\NER-Agile\Models\InstallationModel.cs
 	namespace 	
 	NER_Agile
  
@@ -466,9 +466,9 @@ Controller" ,
 ;&&% &
 }&&' (
 }'' 
-}((  
+}(( ≈
 
-sC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\NER-Agile\Program.cs
+nC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\NER-Agile\Program.cs
 	namespace
 
  	
@@ -546,8 +546,8 @@ UseStartup )
 ) 
 ; 
 } 
-} π
-sC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\Main\NER-Agile\Startup.cs
+} ¥
+nC:\Users\Baptiste\Documents\HES SO Valais\56 Software industrialization\Ner-Agile-Redmine\NER-Agile\Startup.cs
 	namespace
 
  	

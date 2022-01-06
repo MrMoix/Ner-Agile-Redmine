@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PXMqY2PR5xxkxUizJcyDjGSMcBEMeaNmYTe7j9TdjYTz4zrbygvtsel3W6zaCSj/9ncfjEWXThDbUDAQKhOgLw==",
+  "dgSpecHash": "osvIdJXUCy5DXnGLQYiP/j2jwi9f0tKb6nNRhEpLNbk5koR4Ny3fni4vP1mKBafSzHsZ5BS8nzLOh0plQNlaCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\DAL\\DAL.csproj",
+  "projectFilePath": "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Baptiste\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Baptiste\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
