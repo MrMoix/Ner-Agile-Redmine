@@ -1,0 +1,325 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Compilateur Microsoft (R) Visual C#",
+        "version": "3.11.0.0",
+        "fileVersion": "3.11.0-4.21451.6 (0b1a27fd)",
+        "semanticVersion": "3.11.0",
+        "language": "fr-FR"
+      },
+      "results": [
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Method has 12 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/DAL/IInstallationDB.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 28,
+                  "endLine": 7,
+                  "endColumn": 208
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3776",
+          "level": "warning",
+          "message": "Refactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/DAL/InstallationDB.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 29,
+                  "endLine": 25,
+                  "endColumn": 62
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/DAL/InstallationDB.cs",
+                "region": {
+                  "startLine": 41,
+                  "startColumn": 25,
+                  "endLine": 41,
+                  "endColumn": 27
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/DAL/InstallationDB.cs",
+                "region": {
+                  "startLine": 46,
+                  "startColumn": 29,
+                  "endLine": 46,
+                  "endColumn": 31
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/DAL/InstallationDB.cs",
+                "region": {
+                  "startLine": 48,
+                  "startColumn": 29,
+                  "endLine": 48,
+                  "endColumn": 31
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/DAL/InstallationDB.cs",
+                "region": {
+                  "startLine": 50,
+                  "startColumn": 29,
+                  "endLine": 50,
+                  "endColumn": 31
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/DAL/InstallationDB.cs",
+                "region": {
+                  "startLine": 52,
+                  "startColumn": 29,
+                  "endLine": 52,
+                  "endColumn": 31
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/DAL/InstallationDB.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 29,
+                  "endLine": 54,
+                  "endColumn": 31
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/DAL/InstallationDB.cs",
+                "region": {
+                  "startLine": 56,
+                  "startColumn": 29,
+                  "endLine": 56,
+                  "endColumn": 31
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/DAL/InstallationDB.cs",
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 29,
+                  "endLine": 58,
+                  "endColumn": 31
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/DAL/InstallationDB.cs",
+                "region": {
+                  "startLine": 60,
+                  "startColumn": 29,
+                  "endLine": 60,
+                  "endColumn": 31
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/DAL/InstallationDB.cs",
+                "region": {
+                  "startLine": 62,
+                  "startColumn": 29,
+                  "endLine": 62,
+                  "endColumn": 31
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/DAL/InstallationDB.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 29,
+                  "endLine": 64,
+                  "endColumn": 31
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/DAL/InstallationDB.cs",
+                "region": {
+                  "startLine": 66,
+                  "startColumn": 29,
+                  "endLine": 66,
+                  "endColumn": 31
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/DAL/InstallationDB.cs",
+                "region": {
+                  "startLine": 68,
+                  "startColumn": 29,
+                  "endLine": 68,
+                  "endColumn": 31
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/DAL/InstallationDB.cs",
+                "region": {
+                  "startLine": 74,
+                  "startColumn": 13,
+                  "endLine": 74,
+                  "endColumn": 18
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "+1",
+              "1": "+2 (incl 1 for nesting)",
+              "10": "+2 (incl 1 for nesting)",
+              "11": "+2 (incl 1 for nesting)",
+              "12": "+2 (incl 1 for nesting)",
+              "13": "+1",
+              "2": "+2 (incl 1 for nesting)",
+              "3": "+2 (incl 1 for nesting)",
+              "4": "+2 (incl 1 for nesting)",
+              "5": "+2 (incl 1 for nesting)",
+              "6": "+2 (incl 1 for nesting)",
+              "7": "+2 (incl 1 for nesting)",
+              "8": "+2 (incl 1 for nesting)",
+              "9": "+2 (incl 1 for nesting)"
+            }
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/DAL/InstallationDB.cs",
+                "region": {
+                  "startLine": 118,
+                  "startColumn": 17,
+                  "endLine": 118,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/DAL/InstallationDB.cs",
+                "region": {
+                  "startLine": 76,
+                  "startColumn": 17,
+                  "endLine": 76,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "S107": {
+          "id": "S107",
+          "shortDescription": "Methods should not have too many parameters",
+          "fullDescription": "A long parameter list can indicate that a new structure should be created to wrap the numerous parameters or that the function is doing too many things.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-107",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S3445": {
+          "id": "S3445",
+          "shortDescription": "Exceptions should not be explicitly rethrown",
+          "fullDescription": "When rethrowing an exception, you should do it by simply calling throw; and not throw exc;, because the stack trace is reset with the second syntax, making debugging a lot harder.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3445",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope"
+            ]
+          }
+        },
+        "S3776": {
+          "id": "S3776",
+          "shortDescription": "Cognitive Complexity of methods should not be too high",
+          "fullDescription": "Cognitive Complexity is a measure of how hard the control flow of a method is to understand. Methods with high Cognitive Complexity will be difficult to maintain.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3776",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

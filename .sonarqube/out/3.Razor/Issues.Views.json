@@ -1,0 +1,1991 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Compilateur Microsoft (R) Visual C#",
+        "version": "3.11.0.0",
+        "fileVersion": "3.11.0-4.21451.6 (0b1a27fd)",
+        "semanticVersion": "3.11.0",
+        "language": "fr-FR"
+      },
+      "results": [
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 67,
+                  "endLine": 34,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 67,
+                  "endLine": 34,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Details.cshtml.g.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 67,
+                  "endLine": 34,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 67,
+                  "endLine": 34,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 67,
+                  "endLine": 34,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/SaveResultView.cshtml.g.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 67,
+                  "endLine": 34,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 67,
+                  "endLine": 33,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 212,
+                  "endLine": 59,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 212,
+                  "endLine": 73,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 84,
+                  "startColumn": 208,
+                  "endLine": 84,
+                  "endColumn": 210
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 99,
+                  "startColumn": 208,
+                  "endLine": 99,
+                  "endColumn": 210
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 128,
+                  "startColumn": 212,
+                  "endLine": 128,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 157,
+                  "startColumn": 212,
+                  "endLine": 157,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 178,
+                  "startColumn": 212,
+                  "endLine": 178,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 207,
+                  "startColumn": 212,
+                  "endLine": 207,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 227,
+                  "startColumn": 217,
+                  "endLine": 227,
+                  "endColumn": 219
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 241,
+                  "startColumn": 217,
+                  "endLine": 241,
+                  "endColumn": 219
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 255,
+                  "startColumn": 217,
+                  "endLine": 255,
+                  "endColumn": 219
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 83,
+                  "startColumn": 213,
+                  "endLine": 83,
+                  "endColumn": 215
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 105,
+                  "startColumn": 216,
+                  "endLine": 105,
+                  "endColumn": 218
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 128,
+                  "startColumn": 210,
+                  "endLine": 128,
+                  "endColumn": 212
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 152,
+                  "startColumn": 215,
+                  "endLine": 152,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 174,
+                  "startColumn": 214,
+                  "endLine": 174,
+                  "endColumn": 216
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 196,
+                  "startColumn": 216,
+                  "endLine": 196,
+                  "endColumn": 218
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 219,
+                  "startColumn": 210,
+                  "endLine": 219,
+                  "endColumn": 212
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 243,
+                  "startColumn": 215,
+                  "endLine": 243,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 265,
+                  "startColumn": 214,
+                  "endLine": 265,
+                  "endColumn": 216
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 287,
+                  "startColumn": 216,
+                  "endLine": 287,
+                  "endColumn": 218
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 310,
+                  "startColumn": 210,
+                  "endLine": 310,
+                  "endColumn": 212
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 334,
+                  "startColumn": 215,
+                  "endLine": 334,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 356,
+                  "startColumn": 214,
+                  "endLine": 356,
+                  "endColumn": 216
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 378,
+                  "startColumn": 216,
+                  "endLine": 378,
+                  "endColumn": 218
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 401,
+                  "startColumn": 210,
+                  "endLine": 401,
+                  "endColumn": 212
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 425,
+                  "startColumn": 215,
+                  "endLine": 425,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 447,
+                  "startColumn": 214,
+                  "endLine": 447,
+                  "endColumn": 216
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 469,
+                  "startColumn": 216,
+                  "endLine": 469,
+                  "endColumn": 218
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 492,
+                  "startColumn": 210,
+                  "endLine": 492,
+                  "endColumn": 212
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 518,
+                  "startColumn": 215,
+                  "endLine": 518,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 540,
+                  "startColumn": 216,
+                  "endLine": 540,
+                  "endColumn": 218
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 563,
+                  "startColumn": 210,
+                  "endLine": 563,
+                  "endColumn": 212
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 589,
+                  "startColumn": 215,
+                  "endLine": 589,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 611,
+                  "startColumn": 214,
+                  "endLine": 611,
+                  "endColumn": 216
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 633,
+                  "startColumn": 216,
+                  "endLine": 633,
+                  "endColumn": 218
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 656,
+                  "startColumn": 210,
+                  "endLine": 656,
+                  "endColumn": 212
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 680,
+                  "startColumn": 215,
+                  "endLine": 680,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 702,
+                  "startColumn": 216,
+                  "endLine": 702,
+                  "endColumn": 218
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 725,
+                  "startColumn": 210,
+                  "endLine": 725,
+                  "endColumn": 212
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 749,
+                  "startColumn": 215,
+                  "endLine": 749,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 771,
+                  "startColumn": 216,
+                  "endLine": 771,
+                  "endColumn": 218
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 794,
+                  "startColumn": 210,
+                  "endLine": 794,
+                  "endColumn": 212
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 818,
+                  "startColumn": 215,
+                  "endLine": 818,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 840,
+                  "startColumn": 214,
+                  "endLine": 840,
+                  "endColumn": 216
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 862,
+                  "startColumn": 216,
+                  "endLine": 862,
+                  "endColumn": 218
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 885,
+                  "startColumn": 210,
+                  "endLine": 885,
+                  "endColumn": 212
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 911,
+                  "startColumn": 215,
+                  "endLine": 911,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 933,
+                  "startColumn": 216,
+                  "endLine": 933,
+                  "endColumn": 218
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 956,
+                  "startColumn": 210,
+                  "endLine": 956,
+                  "endColumn": 212
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 982,
+                  "startColumn": 215,
+                  "endLine": 982,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 1004,
+                  "startColumn": 216,
+                  "endLine": 1004,
+                  "endColumn": 218
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 1027,
+                  "startColumn": 210,
+                  "endLine": 1027,
+                  "endColumn": 212
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 1053,
+                  "startColumn": 215,
+                  "endLine": 1053,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 1075,
+                  "startColumn": 216,
+                  "endLine": 1075,
+                  "endColumn": 218
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 1098,
+                  "startColumn": 210,
+                  "endLine": 1098,
+                  "endColumn": 212
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 1124,
+                  "startColumn": 215,
+                  "endLine": 1124,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 1146,
+                  "startColumn": 214,
+                  "endLine": 1146,
+                  "endColumn": 216
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 1168,
+                  "startColumn": 216,
+                  "endLine": 1168,
+                  "endColumn": 218
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 1191,
+                  "startColumn": 210,
+                  "endLine": 1191,
+                  "endColumn": 212
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 1217,
+                  "startColumn": 215,
+                  "endLine": 1217,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 1239,
+                  "startColumn": 216,
+                  "endLine": 1239,
+                  "endColumn": 218
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 1262,
+                  "startColumn": 211,
+                  "endLine": 1262,
+                  "endColumn": 213
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 1288,
+                  "startColumn": 216,
+                  "endLine": 1288,
+                  "endColumn": 218
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 1310,
+                  "startColumn": 215,
+                  "endLine": 1310,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 1332,
+                  "startColumn": 217,
+                  "endLine": 1332,
+                  "endColumn": 219
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 1355,
+                  "startColumn": 211,
+                  "endLine": 1355,
+                  "endColumn": 213
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 1381,
+                  "startColumn": 216,
+                  "endLine": 1381,
+                  "endColumn": 218
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 1403,
+                  "startColumn": 217,
+                  "endLine": 1403,
+                  "endColumn": 219
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 1426,
+                  "startColumn": 211,
+                  "endLine": 1426,
+                  "endColumn": 213
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 1452,
+                  "startColumn": 216,
+                  "endLine": 1452,
+                  "endColumn": 218
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "Le champ 'Views_Shared__Layout.__tagHelperStringValueBuffer' n'est jamais utilisé",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 51,
+                  "startColumn": 24,
+                  "endLine": 51,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "Le champ 'Views_Home_Add.__tagHelperStringValueBuffer' n'est jamais utilisé",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add.cshtml.g.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 24,
+                  "endLine": 57,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "Le champ 'Views_Shared__ValidationScriptsPartial.__tagHelperStringValueBuffer' n'est jamais utilisé",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Baptiste/Documents/HES%20SO%20Valais/56%20Software%20industrialization/Ner-Agile-Redmine/Main/NER-Agile/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
+                "region": {
+                  "startLine": 41,
+                  "startColumn": 24,
+                  "endLine": 41,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        }
+      ],
+      "rules": {
+        "CS0169": {
+          "id": "CS0169",
+          "shortDescription": "Le champ n'est jamais utilisé",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0169)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS1998": {
+          "id": "CS1998",
+          "shortDescription": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS1998)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

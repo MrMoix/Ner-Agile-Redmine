@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gaeta\\source\\Workspaces\\2021_Portail_NER_Agile\\NER-Agile\\NER-Agile.csproj": {}
+    "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\NER-Agile\\NER-Agile.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gaeta\\source\\Workspaces\\2021_Portail_NER_Agile\\BLL\\BLL.csproj": {
+    "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gaeta\\source\\Workspaces\\2021_Portail_NER_Agile\\BLL\\BLL.csproj",
+        "projectUniqueName": "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\BLL\\BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "C:\\Users\\gaeta\\source\\Workspaces\\2021_Portail_NER_Agile\\BLL\\BLL.csproj",
-        "packagesPath": "C:\\Users\\gaeta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gaeta\\source\\Workspaces\\2021_Portail_NER_Agile\\BLL\\obj\\",
+        "projectPath": "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\Baptiste\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\gaeta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Baptiste\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,11 +32,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\gaeta\\source\\Workspaces\\2021_Portail_NER_Agile\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\gaeta\\source\\Workspaces\\2021_Portail_NER_Agile\\DAL\\DAL.csproj"
+              "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\DAL\\DAL.csproj"
               },
-              "C:\\Users\\gaeta\\source\\Workspaces\\2021_Portail_NER_Agile\\DTO\\DTO.csproj": {
-                "projectPath": "C:\\Users\\gaeta\\source\\Workspaces\\2021_Portail_NER_Agile\\DTO\\DTO.csproj"
+              "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\DTO\\DTO.csproj": {
+                "projectPath": "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\DTO\\DTO.csproj"
               }
             }
           }
@@ -65,24 +65,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\gaeta\\source\\Workspaces\\2021_Portail_NER_Agile\\DAL\\DAL.csproj": {
+    "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gaeta\\source\\Workspaces\\2021_Portail_NER_Agile\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\gaeta\\source\\Workspaces\\2021_Portail_NER_Agile\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\gaeta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gaeta\\source\\Workspaces\\2021_Portail_NER_Agile\\DAL\\obj\\",
+        "projectPath": "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\Baptiste\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\gaeta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Baptiste\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -97,8 +97,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\gaeta\\source\\Workspaces\\2021_Portail_NER_Agile\\DTO\\DTO.csproj": {
-                "projectPath": "C:\\Users\\gaeta\\source\\Workspaces\\2021_Portail_NER_Agile\\DTO\\DTO.csproj"
+              "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\DTO\\DTO.csproj": {
+                "projectPath": "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\DTO\\DTO.csproj"
               }
             }
           }
@@ -137,24 +137,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\gaeta\\source\\Workspaces\\2021_Portail_NER_Agile\\DTO\\DTO.csproj": {
+    "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\DTO\\DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gaeta\\source\\Workspaces\\2021_Portail_NER_Agile\\DTO\\DTO.csproj",
+        "projectUniqueName": "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\DTO\\DTO.csproj",
         "projectName": "DTO",
-        "projectPath": "C:\\Users\\gaeta\\source\\Workspaces\\2021_Portail_NER_Agile\\DTO\\DTO.csproj",
-        "packagesPath": "C:\\Users\\gaeta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gaeta\\source\\Workspaces\\2021_Portail_NER_Agile\\DTO\\obj\\",
+        "projectPath": "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\DTO\\DTO.csproj",
+        "packagesPath": "C:\\Users\\Baptiste\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\gaeta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Baptiste\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -195,24 +195,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\gaeta\\source\\Workspaces\\2021_Portail_NER_Agile\\NER-Agile\\NER-Agile.csproj": {
+    "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\NER-Agile\\NER-Agile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gaeta\\source\\Workspaces\\2021_Portail_NER_Agile\\NER-Agile\\NER-Agile.csproj",
+        "projectUniqueName": "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\NER-Agile\\NER-Agile.csproj",
         "projectName": "NER-Agile",
-        "projectPath": "C:\\Users\\gaeta\\source\\Workspaces\\2021_Portail_NER_Agile\\NER-Agile\\NER-Agile.csproj",
-        "packagesPath": "C:\\Users\\gaeta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gaeta\\source\\Workspaces\\2021_Portail_NER_Agile\\NER-Agile\\obj\\",
+        "projectPath": "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\NER-Agile\\NER-Agile.csproj",
+        "packagesPath": "C:\\Users\\Baptiste\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\NER-Agile\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\gaeta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Baptiste\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -227,8 +227,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\gaeta\\source\\Workspaces\\2021_Portail_NER_Agile\\BLL\\BLL.csproj": {
-                "projectPath": "C:\\Users\\gaeta\\source\\Workspaces\\2021_Portail_NER_Agile\\BLL\\BLL.csproj"
+              "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\BLL\\BLL.csproj": {
+                "projectPath": "C:\\Users\\Baptiste\\Documents\\HES SO Valais\\56 Software industrialization\\Ner-Agile-Redmine\\Main\\BLL\\BLL.csproj"
               }
             }
           }
@@ -266,7 +266,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }
