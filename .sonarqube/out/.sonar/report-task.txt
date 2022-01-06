@@ -2,5 +2,5 @@ projectKey=ner_agile
 serverUrl=http://localhost:9000
 serverVersion=9.2.4.50792
 dashboardUrl=http://localhost:9000/dashboard?id=ner_agile
-ceTaskId=AX4vjOpZw7Xk-NX_YaEu
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AX4vjOpZw7Xk-NX_YaEu
+ceTaskId=AX4vj6j1w7Xk-NX_YaEv
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX4vj6j1w7Xk-NX_YaEv

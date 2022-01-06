@@ -17,7 +17,7 @@ namespace NER_Agile.Controllers
         IInstallationManager InstallationManager { get; }
 
       
-        private readonly ILogger<HomeController> _logger;
+        private readonly ILogger<HomeController> _logger
 
         public HomeController(ILogger<HomeController> logger, IInstallationManager installationManager)
         {
